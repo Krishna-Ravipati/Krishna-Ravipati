@@ -40,35 +40,21 @@ I am passionate about building **scalable data platforms, real-time streaming pi
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krishna-Ravipati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Krishna-Ravipati&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-Ravipati&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=venkatagopiravipati&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkatagopiravipati&layout=compact&theme=tokyonight)
-
----
-
-# 🚀 Featured Projects
-
-## 📈 Real-Time Crypto Data Streaming Platform
-**Tech Stack:** Kafka, Apache Spark, Snowflake, Grafana
-
-- Built a real-time data streaming pipeline for cryptocurrency market data  
-- Implemented Kafka producers & consumers for high-throughput ingestion  
-- Processed streaming data using Spark Structured Streaming  
-- Stored analytics-ready data in Snowflake  
-- Built Grafana dashboards for real-time price monitoring  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Krishna-Ravipati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Krishna-Ravipati&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 ELT Pipeline with DBT, Snowflake & Airflow
-**Tech Stack:** DBT, Snowflake, Apache Airflow
-
-- Built scalable ELT pipelines for data warehouse transformation  
-- Implemented star schema data modeling  
-- Automated workflows with Airflow scheduling  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
+
+
 
 # 🌱 Currently Learning
 
@@ -80,8 +66,7 @@ I am passionate about building **scalable data platforms, real-time streaming pi
 
 # 📫 Connect With Me
 
-💼 LinkedIn  
-https://linkedin.com/in/gopiravipati  
+
 
 📧 Email  
 venkatagopi.ravipati01@gmail.com  
