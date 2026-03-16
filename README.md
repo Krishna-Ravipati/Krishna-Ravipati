@@ -4,7 +4,7 @@
 
 I am passionate about building **scalable data platforms, real-time streaming pipelines, and cloud-based analytics solutions**. I enjoy transforming raw data into **actionable insights using modern data engineering tools**.
 
-🎓 **Master of Science in Information Studies – Trine University**  
+
 💼 **5+ years of experience in Data Engineering & Cloud Technologies**
 
 ---
